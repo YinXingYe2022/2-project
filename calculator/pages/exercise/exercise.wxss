@@ -1,0 +1,27 @@
+/* pages/exercise/exercise.wxss */
+page{
+   background-color: lightgray;
+}
+.box{
+  /* margin: 20px 12px 200px 12px; */
+  padding: 10% 5% 50px 5%;
+  height: 459px;
+  width: 90%;
+}
+.item{
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  line-height: 50px;
+  text-align: left;
+  border: solid 0.5px silver;
+  border-radius: 5px;
+}
+.submit-button{
+  bottom: 20%;
+}
+input{
+  text-align: right;
+}

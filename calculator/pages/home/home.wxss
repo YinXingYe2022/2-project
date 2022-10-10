@@ -1,0 +1,5 @@
+/* pages/home/home.wxss */
+.img-box{
+  display:flex;
+  padding:50rpx 50rpx;
+}
